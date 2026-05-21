@@ -1,0 +1,22 @@
+{
+  "name": "Pixo Painting & Coating",
+  "short_name": "Pixo Painting",
+  "description": "Canada's premier high-end painting & coating services. Experience excellence with Pixo Painting.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9f9f9",
+  "theme_color": "#008080",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.PNG",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Allow Googlebot and Googlebot-Image to crawl icons
+User-agent: Googlebot
+Allow: /favicon.svg
+Allow: /icon.png
+Allow: /apple-icon.png
+Allow: /logo.PNG
+
+User-agent: Googlebot-Image
+Allow: /
+
+Sitemap: https://www.pixopainting.com/sitemap.xml
